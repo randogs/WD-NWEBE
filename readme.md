@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Ahh SHHh here we go again. (Optional)
+  Ahh SHHh here we go again. 
 </div>
 
 <br />
