@@ -6,14 +6,15 @@
 <div align="center">
   <a href="https://github.com/randogs/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://i.kinja-img.com/image/upload/c_fit,q_60,w_1315/lgwjjessdh9wrmo9amzu.jpg" alt="NWEBE" width="130" height="100">
+    <img src="https://i0.wp.com/wololo.net/wagic/wp-content/uploads/2021/02/02c8aa3521e4e738cd2b6c2a1ae38c0a6ac5559ca908d74220a25822ccb9dbf2.png?fit=960%2C544&ssl=1"
+" alt="NWEBE" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Eyy Yow Cj</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Ahh SHHh here we go again. (Optional)
+  Ahh SHHh here we go again. 
 </div>
 
 <br />
