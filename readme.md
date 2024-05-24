@@ -6,7 +6,8 @@
 <div align="center">
   <a href="https://github.com/randogs/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://i.kinja-img.com/image/upload/c_fit,q_60,w_1315/lgwjjessdh9wrmo9amzu.jpg" alt="NWEBE" width="130" height="100">
+    <img src="![logo_deguzman](https://github.com/randogs/WD-NWEBE/assets/167612030/0d5163dc-eff2-4b99-aade-08f73c75d253)
+" alt="NWEBE" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Eyy Yow Cj</h3>
