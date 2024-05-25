@@ -5,16 +5,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 :root {
     --primary-color: #ff7613;
     --text-color: #727171;
 }
+
 html {
     font-size: 10px;
 }
-body{
-    font-family: Inter, sans-serif;
-    background-color:black;
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
     color: white;
 }
 
@@ -22,16 +25,25 @@ body{
 img {
     width: 100%;
 }
+
 a {
     text-decoration: none;
     color: white;
 }
+
 .description {
     margin-top: 1rem;
     font-size: 1.5rem;
     font-weight: 400;
-    color: var(--text-color)
+    color: var(--text-color);
 }
+.title {
+    color: var(--primary-color);
+    font-weight: 700;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
 /* layouts */
 .container {
     max-width: 1000px;
@@ -43,15 +55,17 @@ a {
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
 }
+
 @media only screen and (max-width: 768px) {
     .container {
         width: 100%;
-        grid-template-columns:  1fr;
+        grid-template-columns: 1fr;
         padding: 3rem;
         gap: 7rem;
     }
 }
-.profile{
+
+.profile {
     grid-column: 1 / -1;
     margin-bottom: 2rem;
 }
@@ -61,9 +75,11 @@ a {
     display: flex;
     gap: 2rem;
 }
+
 .profile_profileImg {
     max-width: 250px;
 }
+
 .profile_name_firstName {
     color: white;
     font-weight: 200;
@@ -72,17 +88,24 @@ a {
     display: block;
     margin-bottom: -0.8rem;
 }
+
 .profile_name_lastName {
     color: var(--primary-color);
-    font-weight: 700;
-    font-size: clamp(2.5rem, 15vw, 7rem);
+    font-weight: 400;
+    font-size: clamp(1.5rem, 15vw, 7rem);
     text-transform: uppercase;
     display: block;
 }
+
 .profile_title {
     font-size: 1.5rem;
     font-weight: 400;
     text-transform: uppercase;
 }
 
-
+/* education */
+.skill_list {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    line-height: 2;
+}
