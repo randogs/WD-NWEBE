@@ -113,3 +113,6 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+resources:https://www.youtube.com/watch?v=FHb9JobDs2o&t=2s
+https://www.youtube.com/watch?v=0YFrGy_mzjY&t=3325s
